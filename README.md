@@ -1,4 +1,4 @@
-# Signature-Matching
+## ignature-Matching
 Application to detect the similarity of two signatures.
 
 This Application helps mathematically evaluate similarity of two signatures. 
@@ -18,13 +18,6 @@ The signatures are compared using structural_similarity in skimage.metrics packa
 ## Run
 1. `pip install requirements.txt`
 2. `python main.py`
-
-
-## Preview
-<!-- ![Preview](assets/Signature.gif) -->
-
-https://user-images.githubusercontent.com/51584907/140640842-b7cd3fe2-493a-469b-b121-5b9f02707bcf.mp4
-
 
 
 ## Please open an issue if
