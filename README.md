@@ -23,3 +23,7 @@ The signatures are compared using structural_similarity in skimage.metrics packa
 ## Please open an issue if
 * you have any suggestion to improve this project
 * you noticed any problem or error
+
+
+## signature.py
+
